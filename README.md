@@ -1,8 +1,9 @@
-### 👋 Привет, моё имя Роман. Я пишу программки на C#
-- В настоящее время изучаю TypeScript и Dart/Flutter
-- Ищу работу
+### 👋 Hi, I’m @Carapacik. I mostly write in C#
+- Currently learning TypeScript and Dart/Flutter
+- I’m looking to collaborate
+- **RU | EN**
 
-#### 📫  Как написать мне: 
+#### 📫  How to contact me: 
  - [Telegram](https://t.me/carapacik) 
  - [VK](https://vk.com/carapacikov)
  - Discord (*Carapacik#8617*)
