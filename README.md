@@ -4,7 +4,6 @@
 - **RU | EN**
 
 #### 📫  How to contact me: 
- - [Telegram](https://t.me/carapacik) 
+ - [Telegram](https://t.me/carapacikov)
  - [VK](https://vk.com/carapacikov)
- - Discord (*Carapacik#8617*)
  - Email (*carapacik@gmail.com*)
