@@ -10,3 +10,5 @@
 #### 📫  How to contact me: 
  - [Telegram](https://t.me/carapacik)
  - Email (*carapacik@gmail.com*)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carapacik)](https://github.com/anuraghazra/github-readme-stats)
