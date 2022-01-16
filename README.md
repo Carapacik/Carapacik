@@ -8,6 +8,6 @@
 #### My apps in Google Play
 <a href='https://play.google.com/store/apps/developer?id=Carapacik'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='90px'/></a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=carapacik&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=carapacik)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carapacik&theme=radical&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carapacik&&layout=compact)
