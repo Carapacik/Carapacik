@@ -17,7 +17,6 @@
 
 [![Recipe Book](https://github-readme-stats.vercel.app/api/pin/?username=Carapacik&repo=RecipeBook)](https://github.com/Carapacik/RecipeBook)
 ### GitHub stats
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carapacik&count_private=true&show_icons=true" hspace="5" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carapacik&layout=compact" hspace="5" />
-</div>
+[![Stats](https://github-readme-stats.vercel.app/api?username=carapacik&count_private=true&show_icons=true)](https://github.com/Carapacik)
+
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carapacik&layout=compact)](https://github.com/Carapacik)
