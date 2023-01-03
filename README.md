@@ -16,7 +16,4 @@
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" hspace="5" height="40" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" hspace="5" height="40" /><img src="https://avatars.githubusercontent.com/u/426196?s=40" hspace="5" /><img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" hspace="5" height="40" /><img src="https://avatars.githubusercontent.com/u/25158?s=40" hspace="5" /><img src="https://avatars.githubusercontent.com/u/450574?s=40" hspace="5" /><img src="https://avatars.githubusercontent.com/u/2319114" hspace="5" height="40" />
 
 ### GitHub stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=carapacik&count_private=true&show_icons=true)](https://github.com/Carapacik)
-
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carapacik&layout=compact)](https://github.com/Carapacik)
-
+[![Stats](https://github-readme-stats.vercel.app/api?username=Carapacik&show_icons=true&count_private=true&theme=transparent)](https://github.com/Carapacik)
