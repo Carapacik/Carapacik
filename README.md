@@ -19,4 +19,4 @@
 <a href='https://play.google.com/store/apps/developer?id=Carapacik'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="70" width="200" /></a>
 
 ### GitHub stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=Carapacik&show_icons=true&count_private=true&theme=transparent&rank_icon=github)](https://github.com/Carapacik)
+[![Stats](https://github-readme-stats-fast.vercel.app/api?username=Carapacik&show_icons=true&count_private=true&theme=transparent&rank_icon=github)](https://github.com/Carapacik)
