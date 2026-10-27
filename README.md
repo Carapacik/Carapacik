@@ -6,6 +6,8 @@
   <a href="mailto:carapacik@gmail.com">Email</a>
 </p>
 
+<h3 align="center">Currently using at work</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,rust" alt="Dart, Flutter, Rust" />
 </p>
@@ -20,6 +22,6 @@
 
 <p align="center">
   <a href="https://github.com/Carapacik">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Carapacik&amp;show_icons=true&amp;count_private=true&amp;theme=transparent&amp;rank_icon=github" alt="Carapacik's GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Carapacik&amp;show_icons=true&amp;count_private=true&amp;theme=transparent&amp;rank_icon=github" alt="Carapacik's GitHub stats" />
   </a>
 </p>
